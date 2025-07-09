@@ -21,7 +21,7 @@ This project brings together concepts from the following HeyGen documentation tu
 
 Watch a demonstration of the application in action:
 
-[![Streaming Avatar Demo](https://img.youtube.com/vi/mz6EmjczYDM/0.jpg)](https://www.youtube.com/watch?v=mz6EmjczYDM)
+[![Streaming Avatar Demo](https://img.youtube.com/vi/CYBEA5hUpbg/0.jpg)](https://youtu.be/CYBEA5hUpbg)
 
 ## Why Use This Application?
 
